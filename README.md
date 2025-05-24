@@ -16,4 +16,4 @@ Aplkasi sederhana berbasis php untuk mencatat tugas harian
 2. Jalankan XAMPP dan buka di 'http://localhost/todolist'
 
 ##Contributor
-- Restu Suryana Alala (
+- Restu Suryana Alala (https://github.com/restusuryana)
